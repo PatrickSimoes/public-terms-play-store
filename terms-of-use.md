@@ -1,8 +1,8 @@
-# Termos de Uso — Contador de Água
+# Termos de Uso
 
-**Última atualização:** 12 de maio de 2026
+**Última atualização:** 21 de maio de 2026
 
-Bem-vindo ao **Contador de Água**. Estes Termos de Uso ("Termos") regem o uso do aplicativo móvel Contador de Água ("aplicativo", "serviço"). Ao utilizar o aplicativo, você concorda com estes Termos.
+Bem-vindo. Estes Termos de Uso ("Termos") regem o uso do aplicativo móvel ("aplicativo", "serviço"). Ao utilizar o aplicativo, você concorda com estes Termos.
 
 Se você não concordar com qualquer parte destes Termos, por favor não utilize o aplicativo.
 
@@ -10,18 +10,18 @@ Se você não concordar com qualquer parte destes Termos, por favor não utilize
 
 ## 1. Sobre o Serviço
 
-O Contador de Água é um aplicativo gratuito para ajudar você a monitorar sua ingestão diária de água, configurar metas e receber lembretes de hidratação. O aplicativo oferece funcionalidades adicionais por meio de uma assinatura **PRO** (quando disponível).
+O aplicativo é uma ferramenta gratuita oferecida ao usuário com funcionalidades descritas em sua loja de origem (Google Play, App Store ou equivalente). O aplicativo pode oferecer funcionalidades adicionais por meio de uma assinatura paga (quando disponível).
 
 ---
 
 ## 2. Cadastro e Conta
 
-- O cadastro é gratuito e exige um **e-mail válido**.
+- O cadastro é gratuito e, quando exigido, requer um **e-mail válido**.
 - Você é responsável por manter a confidencialidade da sua senha.
 - Você é responsável por todas as atividades que ocorrem em sua conta.
 - Notifique-nos imediatamente sobre qualquer uso não autorizado.
 
-Você também pode usar o aplicativo no **modo convidado**, sem cadastro. Neste modo, seus dados ficam armazenados apenas localmente no dispositivo.
+Quando disponível, você poderá usar o aplicativo no **modo convidado**, sem cadastro. Neste modo, seus dados ficam armazenados apenas localmente no dispositivo.
 
 ---
 
@@ -39,24 +39,26 @@ Você concorda em **não**:
 
 ## 4. Conteúdo do Usuário
 
-Você é o único responsável pelas informações que insere no aplicativo (nome, foto, metas, registros). Você nos concede uma licença limitada para armazenar e processar esses dados com a única finalidade de fornecer o serviço.
+Você é o único responsável pelas informações que insere no aplicativo (nome, foto, registros, preferências e demais dados). Você nos concede uma licença limitada para armazenar e processar esses dados com a única finalidade de fornecer o serviço.
 
 ---
 
-## 5. Aviso de Saúde
+## 5. Aviso de Isenção
 
-O Contador de Água **não é um produto médico**. As recomendações de hidratação são genéricas e não substituem orientação profissional. Em caso de dúvidas sobre sua saúde, **consulte um médico ou nutricionista**.
+O aplicativo **não é um produto médico, financeiro, jurídico ou profissional regulado**. Quaisquer informações, recomendações ou cálculos exibidos têm caráter genérico e informativo, e não substituem orientação profissional especializada.
 
-Não nos responsabilizamos por decisões de saúde tomadas com base nas informações do aplicativo.
+Em caso de dúvidas sobre temas sensíveis (saúde, finanças, decisões legais etc.), **consulte um profissional qualificado**.
+
+Não nos responsabilizamos por decisões tomadas pelo usuário com base nas informações exibidas pelo aplicativo.
 
 ---
 
-## 6. Anúncios e Plano PRO
+## 6. Anúncios e Plano Pago
 
-- O aplicativo é gratuito e financiado por **anúncios** (Google AdMob).
-- O plano **PRO**, quando disponível, removerá os anúncios e desbloqueará recursos adicionais.
-- Pagamentos do plano PRO são processados pela **Google Play** e seguem os termos da loja.
-- Cancelamentos e reembolsos seguem a política da Google Play.
+- O aplicativo pode ser oferecido gratuitamente e financiado por **anúncios** (por exemplo, Google AdMob), quando aplicável.
+- Quando disponível, um **plano pago** poderá remover anúncios e/ou desbloquear recursos adicionais.
+- Pagamentos são processados pela loja de aplicativos (**Google Play** ou **App Store**) e seguem os termos da respectiva loja.
+- Cancelamentos e reembolsos seguem a política da loja de aplicativos onde a compra foi realizada.
 
 ---
 
@@ -88,7 +90,7 @@ O serviço é fornecido **"como está"**, sem garantias de qualquer tipo.
 
 ## 10. Encerramento
 
-- Você pode encerrar sua conta a qualquer momento, conforme descrito na [Política de Privacidade](privacy-policy.md).
+- Você pode encerrar sua conta a qualquer momento, conforme descrito na Política de Privacidade.
 - Podemos suspender ou encerrar contas que violem estes Termos.
 
 ---
